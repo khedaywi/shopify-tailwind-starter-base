@@ -106,14 +106,6 @@
           "settings": {
             "share_label": "Share"
           }
-        },
-        "inventory_g8CriT": {
-          "type": "inventory",
-          "settings": {
-            "text_style": "body",
-            "inventory_threshold": 10,
-            "show_inventory_quantity": true
-          }
         }
       },
       "block_order": [
@@ -130,8 +122,7 @@
         "collapsible-row-1",
         "collapsible-row-2",
         "collapsible-row-3",
-        "share",
-        "inventory_g8CriT"
+        "share"
       ],
       "settings": {
         "enable_sticky_info": true,
